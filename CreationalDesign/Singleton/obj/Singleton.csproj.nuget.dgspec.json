@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rohit\\source\\repos\\CreationalDesign\\Singleton\\Singleton.csproj": {}
+    "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rohit\\source\\repos\\CreationalDesign\\Singleton\\Singleton.csproj": {
+    "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rohit\\source\\repos\\CreationalDesign\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\Users\\rohit\\source\\repos\\CreationalDesign\\Singleton\\Singleton.csproj",
+        "projectPath": "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rohit\\source\\repos\\CreationalDesign\\Singleton\\obj\\",
+        "outputPath": "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
