@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvmKU4zstNujwDZEq+0fOptPufTPrx5qjOLUINgM7sQtSxvsImj7GOQftCyjU9UFsXTCTwIGF19Jc5yKXkc3vQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Factory\\Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
