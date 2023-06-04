@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FOgagG6/sSQl0gSp0ecp/zFXk39jOYEwH2M2my6LDXNp30xJiIUobAundgMS1843iAbWMHFdGpCZd4MhjKZ1+w==",
+  "dgSpecHash": "xPPwCkElABjmrLhh+Wgh8pDxFq2oRG0LJtU77gIWoVGNPJ9+l4pSxTVt/e66FYEvCJixkRy+ldvMPHGfSt/75w==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
+  "projectFilePath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rohit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

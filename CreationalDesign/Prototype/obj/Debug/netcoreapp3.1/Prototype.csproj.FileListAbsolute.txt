@@ -1,0 +1,10 @@
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb

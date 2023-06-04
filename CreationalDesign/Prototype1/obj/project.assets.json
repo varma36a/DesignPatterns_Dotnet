@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
-      "projectName": "Singleton",
-      "projectPath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Prototype1\\Prototype1.csproj",
+      "projectName": "Prototype1",
+      "projectPath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Prototype1\\Prototype1.csproj",
       "packagesPath": "C:\\Users\\rohit\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Singleton\\obj\\",
+      "outputPath": "D:\\Learning\\DotnetTricks\\DesignPatterns\\DesignPatterns_Dotnet\\CreationalDesign\\Prototype1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rohit\\AppData\\Roaming\\NuGet\\NuGet.Config",
