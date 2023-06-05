@@ -1,0 +1,14 @@
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.AssemblyReference.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

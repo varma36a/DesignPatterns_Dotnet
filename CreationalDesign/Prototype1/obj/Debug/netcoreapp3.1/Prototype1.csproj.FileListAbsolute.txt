@@ -11,3 +11,4 @@ D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\P
 D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.dll
 D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.pdb
 D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.genruntimeconfig.cache
+D:\Learning\DotnetTricks\DesignPatterns\DesignPatterns_Dotnet\CreationalDesign\Prototype1\obj\Debug\netcoreapp3.1\Prototype1.csproj.AssemblyReference.cache
